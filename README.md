@@ -1,4 +1,4 @@
-### Session 1: Data Cleaning, Feature Engineering, and EDA
+## Session 1: Data Cleaning, Feature Engineering, and EDA
 
 In the first session, participants dived deep into the essentials of preparing data for machine learning models. The session was structured into the following key topics:
 
